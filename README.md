@@ -1,5 +1,5 @@
 # SimpleScale
-fully 3D-printable scale. Mor info available at https://bashtelorofscience.wordpress.com/ 
+fully 3D-printable scale. More info available at https://bashtelorofscience.wordpress.com/ 
 
 License:
 Software under MIT license
